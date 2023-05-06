@@ -7842,6 +7842,21 @@ a.btn.btn-primary.btn-md.pull-right:hover{
   	background-color: #eb8c1e;
 }
 
+button.btn.btn-md.btn-info:focus {
+	
+    	outline: none;
+    	background-color: #f69320;
+    	border-color: #f69320;
+}
+
+button.btn.btn-md.btn-info:hover {
+    	background-color: #eb8c1e;
+}
+
+button.btn.btn-md.btn-info {
+	background-color: #f69320;
+}
+
 a.btn.btn-md.btn-default.btn-bookings:hover{
   	background-color: #eb8c1e;
 }
@@ -7901,41 +7916,42 @@ a.btn.btn-md.btn-success:hover {
 }
 
 a.btn.btn-inverse.btn-md:hover {
-  	background-color: #28a745;
+	background-color: #28a745;
 }
 
 button.btn.btn-raised.btn-md.btn-info.btn-sign-submit {
-  	background-color: #f69320;
+	background-color: #f69320;
 }
 
 button.btn.btn-raised.btn-md.btn-info.btn-sign-submit:hover{
-  	background-color: #eb8c1e;
+	background-color: #eb8c1e;
 }
 
 button.btn.btn-raised.btn-md.btn-default.btn-sign-switch {
-  	background-color: #8CC540;
+	background-color: #8CC540;
 }
 
 button.btn.btn-raised.btn-md.btn-default.btn-sign-switch:hover{
-  	background-color: #28a745;
+	background-color: #28a745;
 }
 
 button.btn.btn-outline-primary.dropdown-toggle span{
 	color: #fff;
 }
-
 button.btn.btn-md.btn-info {
-    	background-color: #f69320;
+	background-color: #f69320;
 }
 
-button.btn.btn-md.btn-info:focus {
-	
-    	outline: none;
-    	background-color: #f69320;
-    	border-color: #f69320;
+button.btn.btn-primary {
+	outline: none;
 }
 
-button.btn.btn-md.btn-info:hover {
-    	background-color: #eb8c1e;
+a.btn.btn-md.btn-info.ben-inverse {
+	background-color: #8ac926;
+}
+
+
+button.btn.btn-md.btn-primary.btn-raised:active {
+	background-color: #f69320 ;
 }
 
