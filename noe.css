@@ -7699,6 +7699,12 @@ table.table-caddy > tfoot > tr > td {
 
 }
 
+button.btn.btn-primary {
+  	outline: none;
+  	background-color: #f69320;
+  	border-color: #f69320;
+}
+
 body{
 	background-image: linear-gradient(#cee0d5,#cee0d5);
 	font-family: Bahnschrift, sans-serif;
@@ -7914,21 +7920,16 @@ button.btn.btn-raised.btn-md.btn-default.btn-sign-switch:hover{
   	background-color: #28a745;
 }
 
-div button span {
-  	color:white
-}
-
-button.btn.btn-primary {
-  	outline: none;
-  	background-color: #f69320;
-  	border-color: #f69320;
+button.btn.btn-outline-primary.dropdown-toggle span{
+	color: white;
 }
 
 button.btn.btn-md.btn-info {
-    	background-color: #f69320;
+	background-color: #f69320;
 }
 
 button.btn.btn-md.btn-info:focus {
+	
     	outline: none;
     	background-color: #f69320;
     	border-color: #f69320
@@ -7938,6 +7939,3 @@ button.btn.btn-md.btn-info:hover {
     	background-color: #eb8c1e;
 }
 
-a.btn.btn-md.btn-info.ben-inverse {
-    	background-color: #8CC540;
-}
