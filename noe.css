@@ -7817,7 +7817,6 @@ button.btn.btn-info.btn-raised.btn-xs {
 	background-color: #046938;
 }
 
-
 .activities-by-cat .activity-item .activity-btn a{
 	background-color: #f69320;
 }
@@ -7869,7 +7868,6 @@ button.btn.btn-primary.btn-lg.add-to-cart:focus{
   	outline: none;
   	background-color: #f69320;
   	border-color: #f69320;
-
 }
 
 a.btn.btn-primary.btn-md.btn-full-xs {
@@ -7886,7 +7884,6 @@ button.btn.btn-sm.btn-link.no-margin.rmFromCart {
 
 a.btn.btn-md.btn-success {
   	background-color: #f69320;
-
 }
 
 a.btn.btn-inverse.btn-md {
@@ -7895,7 +7892,6 @@ a.btn.btn-inverse.btn-md {
 
 a.btn.btn-md.btn-success:hover {
   	background-color: #eb8c1e;
-
 }
 
 a.btn.btn-inverse.btn-md:hover {
@@ -7914,7 +7910,6 @@ button.btn.btn-raised.btn-md.btn-default.btn-sign-switch {
   	background-color: #8CC540;
 }
 
-
 button.btn.btn-raised.btn-md.btn-default.btn-sign-switch:hover{
   	background-color: #28a745;
 }
@@ -7930,13 +7925,19 @@ button.btn.btn-primary {
 }
 
 button.btn.btn-md.btn-info {
-  	background-color: #f69320;
+    	background-color: #f69320;
+}
+
+button.btn.btn-md.btn-info:focus {
+    	outline: none;
+    	background-color: #f69320;
+    	border-color: #f69320
 }
 
 button.btn.btn-md.btn-info:hover {
-  	background-color: #eb8c1e;
+    	background-color: #eb8c1e;
 }
 
 a.btn.btn-md.btn-info.ben-inverse {
-  	background-color: #8CC540;
+    	background-color: #8CC540;
 }
