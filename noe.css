@@ -7942,7 +7942,7 @@ button.btn.btn-md.btn-info {
 	background-color: #f69320;
 }
 
-button.btn.btn-primary {
+button.btn.btn-primary:focus {
 	outline: none;
 }
 
