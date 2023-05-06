@@ -7711,6 +7711,10 @@ body{
 	color: black;
 }
 
+button:focus {
+	outline: none;
+}
+
 .navbar-nav .nav-heading{
 	background-image: linear-gradient( 35deg,#046938,#f15b2a);
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -7795,7 +7799,7 @@ a.btn.btn-primary.btn-md.btn-full-xs {
 }
 
 .panel-body .btn.btn-md.btn-info{
-	background-color: #046938;
+	background-color: #f69320;
 	color: #fff;
 }
 
@@ -7942,16 +7946,10 @@ button.btn.btn-md.btn-info {
 	background-color: #f69320;
 }
 
-button.btn.btn-primary:focus {
-	outline: none;
-}
-
 a.btn.btn-md.btn-info.ben-inverse {
 	background-color: #8ac926;
 }
 
-
 button.btn.btn-md.btn-primary.btn-raised:active {
 	background-color: #f69320 ;
 }
-
