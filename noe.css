@@ -7791,12 +7791,12 @@ a.btn.btn-primary.btn-md.btn-full-xs {
 
 .panel-footer .btn-inverse{
 	background-color: #046938;
-	color: white;
+	color: #fff;
 }
 
 .panel-body .btn.btn-md.btn-info{
 	background-color: #046938;
-	color: white;
+	color: #fff;
 }
 
 button.btn.btn-info.btn-raised.btn-xs {
@@ -7885,7 +7885,7 @@ a.btn.btn-default.btn-md.btn-full-xs {
 }
 
 button.btn.btn-sm.btn-link.no-margin.rmFromCart {
-  	background-color: white;
+  	background-color: #fff;
 }
 
 a.btn.btn-md.btn-success {
@@ -7921,18 +7921,18 @@ button.btn.btn-raised.btn-md.btn-default.btn-sign-switch:hover{
 }
 
 button.btn.btn-outline-primary.dropdown-toggle span{
-	color: white;
+	color: #fff;
 }
 
 button.btn.btn-md.btn-info {
-	background-color: #f69320;
+    	background-color: #f69320;
 }
 
 button.btn.btn-md.btn-info:focus {
 	
     	outline: none;
     	background-color: #f69320;
-    	border-color: #f69320
+    	border-color: #f69320;
 }
 
 button.btn.btn-md.btn-info:hover {
