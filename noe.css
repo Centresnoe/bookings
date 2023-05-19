@@ -7898,9 +7898,16 @@ button.btn.btn-primary.btn-lg.add-to-cart:focus{
 a.btn.btn-primary.btn-md.btn-full-xs {
   	background-color: #f69320;
 }
+a.btn.btn-primary.btn-md.btn-full-xs:hover {
+  	background-color: #eb8c1e;
+}
 
 a.btn.btn-default.btn-md.btn-full-xs {
-  	background-color: #8CC540;
+  	background-color: #006400;
+}
+
+a.btn.btn-default.btn-md.btn-full-xs:hover {
+  	background-color: #28a745;
 }
 
 button.btn.btn-sm.btn-link.no-margin.rmFromCart {
