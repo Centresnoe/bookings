@@ -7699,7 +7699,12 @@ table.table-caddy > tfoot > tr > td {
 
 }
 
-button.btn.btn-primary {
+button.btn.btn-primary{
+  	outline: none;
+  	background-color: #f69320;
+  	border-color: #f69320;
+}
+button.btn.btn-primary:focus{
   	outline: none;
   	background-color: #f69320;
   	border-color: #f69320;
@@ -7919,7 +7924,7 @@ a.btn.btn-md.btn-success {
 }
 
 a.btn.btn-inverse.btn-md {
-  	background-color: #28a745;
+  	background-color: #046938;
 }
 
 a.btn.btn-md.btn-success:hover {
