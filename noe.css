@@ -7896,18 +7896,18 @@ button.btn.btn-primary.btn-lg.add-to-cart:focus{
 }
 
 a.btn.btn-primary.btn-md.btn-full-xs {
-  	background-color: #f69320;
+	background-color: #f69320;
 }
 a.btn.btn-primary.btn-md.btn-full-xs:hover {
-  	background-color: #eb8c1e;
+	background-color: #eb8c1e;
 }
 
 a.btn.btn-default.btn-md.btn-full-xs {
-  	background-color: #006400;
+	background-color: #006400;
 }
 
 a.btn.btn-default.btn-md.btn-full-xs:hover {
-  	background-color: #28a745;
+	background-color: #338333;
 }
 
 button.btn.btn-sm.btn-link.no-margin.rmFromCart {
@@ -7919,7 +7919,7 @@ a.btn.btn-md.btn-success {
 }
 
 a.btn.btn-inverse.btn-md {
-  	background-color: #8CC540;
+  	background-color: #28a745;
 }
 
 a.btn.btn-md.btn-success:hover {
@@ -7927,7 +7927,7 @@ a.btn.btn-md.btn-success:hover {
 }
 
 a.btn.btn-inverse.btn-md:hover {
-	background-color: #006400;
+	background-color: #338333;
 }
 
 button.btn.btn-raised.btn-md.btn-info.btn-sign-submit {
@@ -7960,3 +7960,31 @@ a.btn.btn-md.btn-info.ben-inverse {
 button.btn.btn-md.btn-primary.btn-raised:active {
 	background-color: #f69320 ;
 }
+
+.navbar .navbar-container #navbarCollapse .navbar-nav .nav-heading {
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(
+		90deg,
+   	 	#28a745,
+    		#eb8c1e
+	);
+}
+
+button.btn.btn-default.center-block.btn-next-date:hover {
+	background-color: #A1D451;
+}
+
+button.btn.btn-default.center-block.btn-prev-date:hover{
+	background-color: #A1D451;
+}
+
+
+button.quantity-left-minus.btn.btn-default.no-margin.btn-number:hover {
+	background-color: #A1D451;
+}
+
+button.quantity-right-plus.btn.btn-default.no-margin.btn-number:hover {
+	background-color: #A1D451;
+}
+
