@@ -7959,7 +7959,10 @@ button.btn.btn-md.btn-info {
 }
 
 a.btn.btn-md.btn-info.ben-inverse {
-	background-color: #8ac926;
+	background-color: #006400;
+}
+a.btn.btn-md.btn-info.ben-inverse:hover{
+	background-color: #338333;
 }
 
 button.btn.btn-md.btn-primary.btn-raised:active {
@@ -7993,3 +7996,22 @@ button.quantity-right-plus.btn.btn-default.no-margin.btn-number:hover {
 	background-color: #A1D451;
 }
 
+button.btn.btn-md.btn-primary.btn-raised:hover{
+	background-color: #eb8c1e;
+}
+
+button.btn.btn-info.btn-xs.no-margin:hover {
+	background-color: #338333;
+}
+
+button.btn.btn-info.btn-raised.btn-xs:hover{
+	background-color: #eb8c1e;
+}
+
+.panel-heading a:hover {
+    color: #1e2749;
+}
+
+#lostpassword-panel-footer a.btn.btn-raised.btn-md.btn-primary:hover{
+    background-color: #338333;
+}
