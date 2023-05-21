@@ -8015,3 +8015,39 @@ button.btn.btn-info.btn-raised.btn-xs:hover{
 #lostpassword-panel-footer a.btn.btn-raised.btn-md.btn-primary:hover{
     background-color: #338333;
 }
+
+.stepwizard a.btn.btn-default.btn-circle:hover{
+	background-color: #006400;
+}
+
+button.btn.btn-raised.btn-md.btn-default.btn-sign-switch {
+	background-color: #006400 ;
+}
+
+button.btn.btn-raised.btn-md.btn-default.btn-sign-switch:hover{
+	background-color: #338333 ;
+}
+
+.hidden-xs.hidden-sm.col-md-3.col-lg-2 a.btn.btn-default:hover{
+	background-color: #338333;
+}
+
+.member-bookings-list a.btn.btn-default.btn-xs.btn-raised:hover{
+	background-color: #338333;
+}
+
+.panel-footer a.btn.btn-default.pull-right:hover{
+	background-color: #338333;
+}
+
+.panel-footer a.btn.btn-default.pull-left:hover{
+	background-color: #338333;
+}
+
+.panel-collapsable .panel-heading a:hover{
+    color: #1e2749;
+}
+
+.navbar .navbar-container #navbarCollapse .navbar-nav>li>a:visited {
+	color: black;
+}
