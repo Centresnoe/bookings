@@ -20,7 +20,7 @@
 	--text-secondary-color: #333;
 
 	/* Text */
-	--text-color: #333;
+	--text-color: black;
 	--text-muted-color: #6c757d;
 
 	/* Default : CTA lvl1 */
@@ -8045,9 +8045,13 @@ button.btn.btn-raised.btn-md.btn-default.btn-sign-switch:hover{
 }
 
 .panel-collapsable .panel-heading a:hover{
-    color: #1e2749;
+	color: #1e2749;
 }
 
 .navbar .navbar-container #navbarCollapse .navbar-nav>li>a:visited {
 	color: black;
+}
+
+i.mdi.mdi-chevron-down {
+	color: white;
 }
