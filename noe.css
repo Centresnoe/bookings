@@ -7987,11 +7987,20 @@ button.btn.btn-md.btn-primary.btn-raised:active {
   	 	#046938,
     		#f69320
 	);
+}
+
+.navbar .navbar-container #navbarCollapse .navbar-nav .nav-heading {
 	letter-spacing: .5px;
-	font-family: Phosphatepro inline,sans-serif;
-	font-size: 2.5rem;
-	font-weight: 400;
-	line-height: 1.1;
+	font-family:Phosphatepro inline,sans-serif;
+	font-size: 0.9rem;
+	font-weight: 100;
+	line-height: 1.1
+}
+
+.nav-heading.hidden-xs h1 ,h2{
+	letter-spacing: .5px;
+	font-family:Phosphatepro inline,sans-serif;
+	font-weight: 100;
 }
 
 button.btn.btn-default.center-block.btn-next-date:hover {
