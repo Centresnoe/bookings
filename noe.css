@@ -7907,7 +7907,7 @@ a.btn.btn-primary.btn-md.btn-full-xs:hover {
 }
 
 a.btn.btn-default.btn-md.btn-full-xs {
-	background-color: #006400;
+	background-color: #046938;
 }
 
 a.btn.btn-default.btn-md.btn-full-xs:hover {
@@ -7965,7 +7965,7 @@ a.btn.btn-md.btn-info.ben-inverse:hover{
 }
 
 button.btn.btn-md.btn-primary.btn-raised:active {
-	background-color: #f69320 ;
+	background-color: #f69320;
 }
 
 .navbar .navbar-container #navbarCollapse .navbar-nav .nav-heading {
@@ -7978,20 +7978,11 @@ button.btn.btn-md.btn-primary.btn-raised:active {
 }
 
 button.btn.btn-default.center-block.btn-next-date:hover {
-	background-color: #A1D451;
+	background-color: #7EB139;
 }
 
 button.btn.btn-default.center-block.btn-prev-date:hover{
-	background-color: #A1D451;
-}
-
-
-button.quantity-left-minus.btn.btn-default.no-margin.btn-number:hover {
-	background-color: #A1D451;
-}
-
-button.quantity-right-plus.btn.btn-default.no-margin.btn-number:hover {
-	background-color: #A1D451;
+	background-color: #7EB139;
 }
 
 button.btn.btn-md.btn-primary.btn-raised:hover{
@@ -8067,4 +8058,11 @@ button.quantity-right-plus.btn.btn-default.no-margin.btn-number {
 button.quantity-left-minus.btn.btn-default.no-margin.btn-number {
 	outline: none;
 	border: 0;
+}
+.quantity-right-plus.btn.btn-default.no-margin.btn-number:hover{
+	background-color:#7EB139;
+
+}
+.quantity-left-minus.btn.btn-default.no-margin.btn-number:hover{
+	background-color:#7EB139;
 }
