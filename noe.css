@@ -7972,6 +7972,7 @@ button.btn.btn-md.btn-primary.btn-raised:active {
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-image: linear-gradient(
+		90deg,
   	 	#046938,
     		#f69320
 	);
