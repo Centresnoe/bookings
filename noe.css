@@ -7852,7 +7852,6 @@ a.btn.btn-primary.btn-md.pull-right:hover{
 }
 
 button.btn.btn-md.btn-info:focus {
-	
     	outline: none;
     	background-color: #f69320;
     	border-color: #f69320;
@@ -7912,7 +7911,7 @@ a.btn.btn-default.btn-md.btn-full-xs {
 }
 
 a.btn.btn-default.btn-md.btn-full-xs:hover {
-	background-color: #338333;
+	background-color: #045e32;
 }
 
 button.btn.btn-sm.btn-link.no-margin.rmFromCart {
@@ -7932,7 +7931,7 @@ a.btn.btn-md.btn-success:hover {
 }
 
 a.btn.btn-inverse.btn-md:hover {
-	background-color: #338333;
+	background-color: #045e32;
 }
 
 button.btn.btn-raised.btn-md.btn-info.btn-sign-submit {
@@ -7962,7 +7961,7 @@ a.btn.btn-md.btn-info.ben-inverse {
 	background-color: #006400;
 }
 a.btn.btn-md.btn-info.ben-inverse:hover{
-	background-color: #338333;
+	background-color: #045e32;
 }
 
 button.btn.btn-md.btn-primary.btn-raised:active {
@@ -7973,9 +7972,8 @@ button.btn.btn-md.btn-primary.btn-raised:active {
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-image: linear-gradient(
-		90deg,
-   	 	#28a745,
-    		#eb8c1e
+  	 	#046938,
+    		#f69320
 	);
 }
 
@@ -8001,7 +7999,7 @@ button.btn.btn-md.btn-primary.btn-raised:hover{
 }
 
 button.btn.btn-info.btn-xs.no-margin:hover {
-	background-color: #338333;
+	background-color: #045e32;
 }
 
 button.btn.btn-info.btn-raised.btn-xs:hover{
@@ -8009,11 +8007,11 @@ button.btn.btn-info.btn-raised.btn-xs:hover{
 }
 
 .panel-heading a:hover {
-    color: #1e2749;
+	color: #1e2749;
 }
 
 #lostpassword-panel-footer a.btn.btn-raised.btn-md.btn-primary:hover{
-    background-color: #338333;
+	background-color: #045e32;
 }
 
 .stepwizard a.btn.btn-default.btn-circle:hover{
@@ -8025,23 +8023,23 @@ button.btn.btn-raised.btn-md.btn-default.btn-sign-switch {
 }
 
 button.btn.btn-raised.btn-md.btn-default.btn-sign-switch:hover{
-	background-color: #338333 ;
+	background-color: #045e32 ;
 }
 
 .hidden-xs.hidden-sm.col-md-3.col-lg-2 a.btn.btn-default:hover{
-	background-color: #338333;
+	background-color: #045e32;
 }
 
 .member-bookings-list a.btn.btn-default.btn-xs.btn-raised:hover{
-	background-color: #338333;
+	background-color: #045e32;
 }
 
 .panel-footer a.btn.btn-default.pull-right:hover{
-	background-color: #338333;
+	background-color: #045e32;
 }
 
 .panel-footer a.btn.btn-default.pull-left:hover{
-	background-color: #338333;
+	background-color: #045e32;
 }
 
 .panel-collapsable .panel-heading a:hover{
@@ -8059,4 +8057,14 @@ i.mdi.mdi-chevron-down {
 .payment-btns button.btn.btn-primary:hover{
 	background-color: #eb8c1e;
 	border-color: #eb8c1e;
+}
+
+button.quantity-right-plus.btn.btn-default.no-margin.btn-number {
+	outline: none;
+	border: 0;
+}
+
+button.quantity-left-minus.btn.btn-default.no-margin.btn-number {
+	outline: none;
+	border: 0;
 }
