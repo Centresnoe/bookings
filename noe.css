@@ -1,15 +1,6 @@
 /*@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
-@font-face {
-	font-family: 'Phosphatepro inline';
-	src: url('https://uploads-ssl.webflow.com/637ca4200b9ecaa75d791c28/63c7cfbc15000887df25c96d_PhosphatePro-Inline.otf') format('opentype');
-	font-weight: 400;
-	font-style: normal;
-	font-display: swap;
-}
-
-
 :root {
 	/* Body */
 	--bg-color: #f7f7f7;
@@ -7979,6 +7970,14 @@ button.btn.btn-md.btn-primary.btn-raised:active {
 	background-color: #f69320;
 }
 
+@font-face {
+	font-family: 'Phosphatepro';
+	src: url('https://uploads-ssl.webflow.com/637ca4200b9ecaa75d791c28/63c7cfbc15000887df25c96d_PhosphatePro-Inline.otf') format('opentype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
 .navbar .navbar-container #navbarCollapse .navbar-nav .nav-heading {
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -7991,7 +7990,7 @@ button.btn.btn-md.btn-primary.btn-raised:active {
 
 .navbar .navbar-container #navbarCollapse .navbar-nav .nav-heading {
 	letter-spacing: .5px;
-	font-family:Phosphatepro inline,sans-serif;
+	font-family:Phosphatepro,sans-serif;
 	font-size: 0.9rem;
 	font-weight: 100;
 	line-height: 1.1
@@ -7999,7 +7998,7 @@ button.btn.btn-md.btn-primary.btn-raised:active {
 
 .nav-heading.hidden-xs h1 ,h2{
 	letter-spacing: .5px;
-	font-family:Phosphatepro inline,sans-serif;
+	font-family:Phosphatepro,sans-serif;
 	font-weight: 100;
 }
 
