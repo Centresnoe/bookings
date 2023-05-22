@@ -1,5 +1,10 @@
 /*@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@font-face {
+  font-family: 'PhosphateInline';
+  src: url('https://centresnoe.github.io/bookings/PhosphateInline.ttf') format('truetype');
+}
+
 
 :root {
 	/* Body */
@@ -7978,6 +7983,11 @@ button.btn.btn-md.btn-primary.btn-raised:active {
   	 	#046938,
     		#f69320
 	);
+	letter-spacing: .5px;
+	font-family: 'PhosphateInline',sans-serif;
+	font-size: 2.5rem;
+	font-weight: 400;
+	line-height: 1.1;
 }
 
 button.btn.btn-default.center-block.btn-next-date:hover {
