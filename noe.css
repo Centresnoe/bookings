@@ -8078,7 +8078,8 @@ button.quantity-left-minus.btn.btn-default.no-margin.btn-number {
 	background-color:#7EB139;
 }
 
-h1 ,h2 {
+h1,
+h2 {
 	letter-spacing: .5px;
 	font-family: Phosphatepro, sans-serif;
 	font-weight: 400;
