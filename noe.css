@@ -8055,3 +8055,8 @@ button.btn.btn-raised.btn-md.btn-default.btn-sign-switch:hover{
 i.mdi.mdi-chevron-down {
 	color: white;
 }
+
+.payment-btns button.btn.btn-primary:hover{
+	background-color: #eb8c1e;
+	border-color: #eb8c1e;
+}
