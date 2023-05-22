@@ -7870,7 +7870,7 @@ a.btn.btn-md.btn-default.btn-bookings:hover{
 }
 
 a.btn.btn-md.btn-default.btn-ticketings:hover{
-  	background-color: #006400;
+  	background-color: #045e32;
 }
 
 a.btn.btn-raised.btn-md.btn-primary:hover{
@@ -7879,10 +7879,12 @@ a.btn.btn-raised.btn-md.btn-primary:hover{
 
 button.btn.btn-default.center-block.btn-next-date{
   	background-color: #8CC540;
+	outline: none;
 }
 
 button.btn.btn-default.center-block.btn-prev-date{
   	background-color: #8CC540;
+	outline: none;
 }
 
 a.btn.btn-default:hover{
