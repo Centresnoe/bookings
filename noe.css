@@ -8092,3 +8092,36 @@ h2 {
 	margin: 0;
 	line-height: 1.2;
 }
+
+button.swal2-confirm.btn.btn-danger {
+	background-color: #f69320; 
+}
+
+button.swal2-confirm.btn.btn-danger:hover{
+	background-color: #eb8c1e;
+ 	border-color: #eb8c1e;
+}
+
+button.swal2-confirm.btn.btn-danger:active {
+	background-color: #f69320;
+}
+
+button.swal2-cancel.btn.btn-default:hover {
+	background-color: #046938;
+}
+
+button.swal2-cancel.btn.btn-default:hover {
+	background-color: #045e32;
+}
+
+.panel-body.activities-panel a.btn.btn-default.alt {
+	background-color: #f69320;
+}
+
+.panel-body.activities-panel a.btn.btn-default.alt:hover {
+	background-color: #eb8c1e;
+}
+
+h2.no-margin.activity_price {
+	font-family: "Poppins", sans-serif;
+}
