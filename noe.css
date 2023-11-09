@@ -8125,3 +8125,11 @@ button.swal2-cancel.btn.btn-default:hover {
 h2.no-margin.activity_price {
 	font-family: "Poppins", sans-serif;
 }
+
+.panel-body.activities-panel a{
+	background-color: #f69320;
+}
+
+.panel-body.activities-panel a:hover{
+	background-color: #eb8c1e;
+}
